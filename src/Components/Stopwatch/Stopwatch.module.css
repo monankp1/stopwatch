@@ -1,0 +1,19 @@
+.container {
+    border: 1px solid black;
+    box-shadow: 5px;
+    background-color: #92a5b8;
+    margin-top: 10rem;
+    margin: 5rem 2rem;
+    min-height: 15rem;
+    height: auto;
+
+}
+
+.timer {
+    font-size: 3rem;
+}
+
+.laps {
+    font-size: 2rem;
+    color: white;
+}
